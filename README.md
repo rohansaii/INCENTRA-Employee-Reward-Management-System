@@ -85,11 +85,11 @@ INCENTRA-Employee-Reward-Management-System/
 
 | Sign In | Overview |
 |---|---|
-| ![Login](screenshots/loginpage.png) | ![Overview](screenshots/overviewpage.png) |
+| ![Login](loginpage.png) | ![Overview](overviewpage.png) |
 
 | Analytics | Rewards |
 |---|---|
-| ![Analytics](screenshots/analyticspage.png) | ![Rewards](screenshots/rewardpage.png) |
+| ![Analytics](analyticspage.png) | ![Rewards](rewardpage.png) |
 
 ---
 
