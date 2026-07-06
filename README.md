@@ -65,14 +65,12 @@ A styled entry screen introducing INCENTRA's value proposition — reward & bonu
 ```
 INCENTRA-Employee-Reward-Management-System/
 │
-├── data/
-│   └── employee_data.csv
+├── employee_data.csv
 │
-├── screenshots/
-│   ├── loginpage.png
-│   ├── overviewpage.png
-│   ├── analyticspage.png
-│   └── rewardpage.png
+├── loginpage.png
+│   overviewpage.png
+│   analyticspage.png
+│   rewardpage.png
 │
 └── README.md
 ```
