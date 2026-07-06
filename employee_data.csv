@@ -1,0 +1,206 @@
+﻿EmployeeID,EmployeeName,Gender,Department,Role,Attendance,TasksCompleted,PerformanceScore,FeedbackScore,ProductivityScore
+E01,Aman Sharma, Male, Sales , Sales Executive,79,32,72,3.9,70
+E02,Neha Verma, Female, HR , HR Manager,94,48,88,4.6,86
+E03,Rahul Singh, Male, IT , Software Developer,94,50,90,4.7,88
+E04,Pooja Mehta, Female, Finance , Financial Analyst,86,42,84,4.2,82
+E05,Arjun Patel, Male, IT , Backend Developer,92,46,87,4.4,85
+E06,Simran Kaur, Female, Marketing , Marketing Executive,88,41,80,4.1,78
+E07,Karan Malhotra, Male, Sales , Business Development Executive,81,34,74,3.9,72
+E08,Anjali Gupta, Female, HR , HR Executive,90,45,85,4.3,83
+E09,Rohit Kumar, Male, IT , QA Tester,79,31,71,3.8,70
+E10,Meera Joshi, Female, Finance , Finance Manager,92,47,88,4.6,86
+E11,Deepak Yadav, Male, Sales , Sales Executive,88,43,83,4.2,81
+E12,Arjun Reddy, Male, IT , Software Developer,96,52,92,4.8,90
+E13,Vikas Singh, Male, Marketing , Digital Marketing Specialist,91,48,89,4.5,87
+E14,Ritika Jain, Female, HR , HR Manager,91,49,90,4.6,88
+E15,Manish Gupta, Male, Finance , Accountant,94,50,91,4.7,89
+E16,Kavita Sharma, Female, Sales , Territory Sales Officer,97,54,94,4.9,92
+E17,Ankit Verma, Male, IT , Frontend Developer,89,44,84,4.3,82
+E18,Payal Kapoor, Female, Marketing , Content Strategist,88,42,82,4.2,80
+E19,Sachin Chauhan, Male, Finance , Financial Analyst,95,51,92,4.8,90
+E20,Divya Nair, Female, HR , Talent Acquisition Specialist,93,49,90,4.6,88
+E21,Rajiv Mehta, Male, Sales , Sales Manager,85,40,82,4.1,80
+E22,Priya Kapoor, Female, HR , HR Business Partner,86,41,83,4.2,81
+E23,Amit Sharma, Male, IT , Software Developer,91,46,88,4.5,86
+E24,Neeraj Singh, Male, Finance , Auditor,82,36,78,4,76
+E25,Sunita Verma, Female, Marketing , SEO Specialist,96,52,93,4.8,91
+E26,Kunal Jain, Male, IT , QA Tester,87,44,85,4.3,83
+E27,Ritu Malhotra, Female, HR , HR Executive,83,38,80,4.1,78
+E28,Sanjay Yadav, Male, Sales , Business Development Executive,92,47,89,4.6,87
+E29,Anita Desai, Female, Finance , Finance Manager,81,36,78,4,76
+E30,Varun Khanna, Male, IT , System Administrator,92,47,88,4.5,86
+E31,Rekha Sharma, Female, Marketing , Brand Manager,80,35,77,4,75
+E32,Ajay Kumar, Male, Sales , Sales Executive,80,35,76,3.9,74
+E33,Nisha Gupta, Female, HR , HR Manager,95,52,92,4.8,90
+E34,Deepika Singh, Female, IT , Data Analyst,91,48,89,4.6,87
+E35,Rakesh Patel, Male, Finance , Financial Analyst,85,40,82,4.1,80
+E36,Komal Arora, Female, Marketing , Marketing Executive,89,43,84,4.2,82
+E37,Arvind Nair, Male, IT , QA Tester,88,42,83,4.2,81
+E38,Sonal Bansal, Female, HR , Training & Development Officer,89,43,84,4.3,82
+E39,Vinay Chauhan, Male, Sales , Key Account Manager,91,46,87,4.4,85
+E40,Megha Joshi, Female, Finance , Finance Manager,80,35,77,4,75
+E41,Harsh Vardhan, Male, Operations , Operations Supervisor,83,37,79,4.1,77
+E42,Tanya Kapoor, Female, Marketing , Digital Marketing Specialist,89,43,84,4.2,82
+E43,Gaurav Sharma, Male, Sales , Sales Executive,97,55,95,4.9,93
+E44,Isha Mehta, Female, Finance , Accountant,79,31,70,3.8,69
+E45,Manoj Singh, Male, Operations , Operations Executive,93,49,90,4.6,88
+E46,Poonam Verma, Female, HR , HR Executive,79,31,71,3.8,70
+E47,Rohit Arora, Male, Sales , Territory Sales Officer,82,37,78,4,76
+E48,Kiran Patel, Male, IT , Software Developer,94,49,90,4.6,88
+E49,Ashish Khanna, Male, Operations , Logistics Coordinator,88,42,83,4.2,81
+E50,Swati Nair, Female, HR , Talent Acquisition Specialist,80,32,72,3.9,70
+E51,Anupam Jain, Male, Finance , Finance Manager,90,45,86,4.4,84
+E52,Seema Sharma, Female, Marketing , Content Strategist,79,31,71,3.8,70
+E53,Pradeep Kumar, Male, Operations , Process Analyst,84,38,80,4.1,78
+E54,Nikita Singh, Female, HR , HR Executive,86,40,82,4.2,80
+E55,Rajesh Gupta, Male, Finance , Auditor,89,43,85,4.3,83
+E56,Alka Verma, Female, Marketing , Marketing Executive,87,41,83,4.2,81
+E57,Suresh Yadav, Male, Operations , Supply Chain Executive,86,41,82,4.1,80
+E58,Kavya Kapoor, Female, Marketing , SEO Specialist,80,35,77,4,75
+E59,Naveen Chauhan, Male, Sales , Sales Executive,94,50,91,4.7,89
+E60,Shreya Mehta, Female, Finance , Financial Analyst,97,54,94,4.9,92
+E61,Abhishek Sharma, Male, IT , Software Developer,82,36,78,4,76
+E62,Ritu Sharma, Female, HR , HR Executive,93,49,90,4.6,88
+E63,Aakash Verma, Male, IT , Backend Developer,92,46,88,4.5,86
+E64,Preeti Gupta, Female, Marketing , Digital Marketing Specialist,87,41,83,4.2,81
+E65,Mohit Singh, Male, Sales , Sales Executive,79,31,71,3.8,70
+E66,Nidhi Sharma, Female, HR , HR Executive,95,52,92,4.8,90
+E67,Saurabh Jain, Male, Finance , Financial Analyst,84,40,82,4.1,80
+E68,Pankaj Verma, Male, Operations , Operations Executive,84,40,82,4.1,80
+E69,Rashmi Singh, Female, Marketing , Content Strategist,89,43,84,4.2,82
+E70,Tarun Gupta, Male, Finance , Accountant,87,42,83,4.2,81
+E71,Neelam Yadav, Female, HR , HR Executive,95,52,92,4.8,90
+E72,Lokesh Sharma, Male, Operations , Logistics Coordinator,85,44,85,4.3,83
+E73,Bhavna Verma, Female, Marketing , Marketing Executive,85,44,85,4.3,83
+E74,Vineet Singh, Male, Sales , Territory Sales Officer,93,50,91,4.7,89
+E75,Garima Kapoor, Female, HR , Talent Acquisition Specialist,93,50,91,4.7,89
+E76,Yogesh Kumar, Male, Operations , Process Analyst,94,41,82,4.1,80
+E77,Sheetal Jain, Female, Finance , Auditor,97,49,90,4.6,88
+E78,Hemant Gupta, Male, Operations , Supply Chain Executive,83,31,71,3.8,70
+E79,Monika Sharma, Female, HR , HR Executive,94,38,79,4.1,77
+E80,Siddharth Verma, Male, IT , Software Developer,79,32,72,3.9,70
+E81,Juhi Singh, Female, Marketing , SEO Specialist,87,45,86,4.4,84
+E82,Aditya Mehta, Male, Finance , Financial Analyst,80,36,78,4,76
+E83,Kritika Sharma, Female, HR , HR Executive,91,41,83,4.2,81
+E84,Shubham Gupta, Male, IT , Data Analyst,83,47,89,4.6,87
+E85,Pallavi Singh, Female, Marketing , Brand Manager,88,44,85,4.3,83
+E86,Nitin Verma, Male, Operations , Operations Executive,89,50,91,4.7,89
+E87,Rachna Sharma, Female, HR , Training & Development Officer,79,42,83,4.2,81
+E88,Amitabh Singh, Male, Sales , Sales Manager,93,43,84,4.3,82
+E89,Sapna Gupta, Female, Finance , Finance Manager,86,36,78,4,76
+E90,Devendra Kumar, Male, Operations , Operations Supervisor,95,49,90,4.6,88
+E91,Kanchan Verma, Female, HR , HR Executive,94,43,84,4.2,82
+E92,Mukesh Sharma, Male, Operations , Logistics Coordinator,87,31,71,3.8,70
+E93,Anuradha Singh, Female, Marketing , Marketing Executive,85,43,84,4.3,82
+E94,Rajat Gupta, Male, Finance , Accountant,83,39,81,4.1,79
+E95,Madhu Verma, Female, HR , HR Executive,92,31,71,3.8,70
+E96,Ravi Sharma, Male, Sales , Business Development Executive,96,42,83,4.2,81
+E97,Sunil Kumar, Male, Operations , Process Analyst,89,44,85,4.3,83
+E98,Geeta Verma, Female, HR , HR Executive,80,31,70,3.8,69
+E99,Kishore Singh, Male, Sales , Sales Executive,87,41,83,4.2,81
+E100,Lalit Gupta, Male, Finance , Financial Analyst,88,43,84,4.3,82
+E101,Sejal Sharma, Female, Marketing , Content Strategist,94,42,83,4.2,81
+E102,Prakash Verma, Male, Operations , Supply Chain Executive,91,36,78,4,76
+E103,Renu Singh, Female, HR , HR Executive,80,41,83,4.2,81
+E104,Dinesh Kumar, Male, Operations , Operations Executive,92,31,71,3.8,70
+E105,Usha Sharma, Female, HR , HR Executive,87,50,91,4.7,89
+E106,Chirag Verma, Male, IT , Software Developer,80,44,85,4.3,83
+E107,Naveen Gupta, Male, Finance , Auditor,85,38,80,4.1,78
+E108,Kajal Singh, Female, Marketing , SEO Specialist,94,48,89,4.6,87
+E109,Sanjana Sharma, Female, HR , HR Executive,84,42,83,4.2,81
+E110,Rohini Verma, Female, Marketing , Digital Marketing Specialist,93,49,90,4.6,88
+E111,Mahesh Gupta, Male, Operations , Operations Supervisor,88,42,83,4.2,81
+E112,Shalini Singh, Female, HR , Talent Acquisition Specialist,93,48,89,4.6,87
+E113,Aarti Sharma, Female, Marketing , Marketing Executive,85,43,84,4.2,82
+E114,Kapil Verma, Male, Sales , Territory Sales Officer,89,41,82,4.1,80
+E115,Reena Gupta, Female, Finance , Accountant,90,39,81,4.1,79
+E116,Ramesh Singh, Male, Operations , Operations Executive,82,50,91,4.7,89
+E117,Meenakshi Sharma, Female, HR , HR Executive,91,44,85,4.3,83
+E118,Ashok Verma, Male, Operations , Logistics Coordinator,94,42,83,4.2,81
+E119,Bhawna Gupta, Female, Marketing , Content Strategist,88,36,78,4,76
+E120,Keshav Singh, Male, Sales , Sales Executive,95,49,90,4.6,88
+E121,Priti Sharma, Female, HR , HR Executive,84,49,90,4.6,88
+E122,Anil Verma, Male, Operations , Process Analyst,90,41,82,4.1,80
+E123,Savita Gupta, Female, HR , HR Executive,90,42,83,4.2,81
+E124,Ritu Raj Singh, Male, Sales , Business Development Executive,85,49,90,4.6,88
+E125,Deepa Sharma, Female, HR , HR Executive,94,46,87,4.4,85
+E126,Suraj Verma, Male, IT , Software Developer,79,46,88,4.5,86
+E127,Kamini Gupta, Female, Marketing , Brand Manager,92,36,78,4,76
+E128,Rohit Raj Singh, Male, Sales , Sales Executive,96,41,83,4.2,81
+E129,Anjana Sharma, Female, HR , HR Executive,89,49,90,4.6,88
+E130,Vishal Verma, Male, IT , Backend Developer,89,43,84,4.3,82
+E131,Madhuri Gupta, Female, Marketing , SEO Specialist,91,47,89,4.6,87
+E132,Amanpreet Singh, Male, Operations , Supply Chain Executive,79,41,82,4.1,80
+E133,Sonia Sharma, Female, HR , HR Executive,85,43,84,4.2,82
+E134,Gurpreet Singh, Male, Sales , Territory Sales Officer,96,49,90,4.6,88
+E135,Harpreet Kaur, Female, HR , HR Executive,85,42,83,4.2,81
+E136,Jaspreet Singh, Male, Operations , Operations Executive,87,47,89,4.6,87
+E137,Navjot Kaur, Female, HR , HR Executive,94,42,83,4.2,81
+E138,Baljinder Singh, Male, Operations , Logistics Coordinator,89,41,82,4.1,80
+E139,Parminder Kaur, Female, HR , HR Executive,95,48,89,4.6,87
+E140,Manpreet Singh, Male, Operations , Process Analyst,96,50,91,4.7,89
+E141,Rajinder Kaur, Female, HR , HR Executive,83,49,90,4.6,88
+E142,Daljit Singh, Male, Operations , Supply Chain Executive,82,49,90,4.6,88
+E143,Kulwinder Kaur, Female, HR , HR Executive,79,43,84,4.3,82
+E144,Amarjeet Singh, Male, Operations , Operations Executive,86,44,85,4.3,83
+E145,Rajwinder Kaur, Female, HR , HR Executive,84,48,89,4.6,87
+E146,Hardeep Singh, Male, Operations , Operations Supervisor,91,43,84,4.3,82
+E147,Sukhpreet Kaur, Female, HR , HR Executive,92,45,86,4.4,84
+E148,Inderjit Singh, Male, Operations , Logistics Coordinator,86,49,90,4.6,88
+E149,Charanjeet Kaur, Female, HR , HR Executive,85,46,88,4.5,86
+E150,Satnam Singh, Male, Operations , Process Analyst,92,42,83,4.2,81
+E151,Gurleen Kaur, Female, HR , HR Executive,96,44,85,4.3,83
+E152,Harjit Singh, Male, Operations , Supply Chain Executive,94,41,82,4.1,80
+E153,Simarjeet Kaur, Female, HR , HR Executive,96,50,91,4.7,89
+E154,Baljit Singh, Male, Operations , Operations Executive,84,50,91,4.7,89
+E155,Navneet Kaur, Female, HR , HR Executive,87,41,82,4.1,80
+E156,Jagdeep Singh, Male, Operations , Logistics Coordinator,94,50,91,4.7,89
+E157,Rupinder Kaur, Female, HR , HR Executive,90,42,83,4.2,81
+E158,Manjit Singh, Male, Operations , Process Analyst,93,49,90,4.6,88
+E159,Amrit Kaur, Female, HR , HR Executive,88,43,84,4.3,82
+E160,Gurmail Singh, Male, Operations , Supply Chain Executive,81,44,85,4.3,83
+E161,Paramjit Kaur, Female, HR , HR Executive,92,49,90,4.6,88
+E162,Surinder Singh, Male, Operations , Operations Executive,97,50,91,4.7,89
+E163,Jasleen Kaur, Female, HR , HR Executive,85,44,85,4.3,83
+E164,Kuldeep Singh, Male, Operations , Logistics Coordinator,87,42,83,4.2,81
+E165,Rajbir Kaur, Female, HR , HR Executive,89,45,86,4.4,84
+E166,Bhupinder Singh, Male, Operations , Process Analyst,87,50,91,4.7,89
+E167,Harleen Kaur, Female, HR , HR Executive,87,41,82,4.1,80
+E168,Jagtar Singh, Male, Operations , Supply Chain Executive,92,45,86,4.4,84
+E169,Rajdeep Kaur, Female, HR , HR Executive,84,44,85,4.3,83
+E170,Amrik Singh, Male, Operations , Operations Executive,82,49,90,4.6,88
+E171,Maninder Kaur, Female, HR , HR Executive,84,49,90,4.6,88
+E172,Gurbachan Singh, Male, Operations , Logistics Coordinator,89,42,83,4.2,81
+E173,Navpreet Kaur, Female, HR , HR Executive,94,50,91,4.7,89
+E174,Baldev Singh, Male, Operations , Process Analyst,87,44,85,4.3,83
+E175,Gurpreet Kaur, Female, HR , HR Executive,82,49,90,4.6,88
+E176,Jarnail Singh, Male, Operations , Supply Chain Executive,94,44,85,4.3,83
+E177,Harnoor Kaur, Female, HR , HR Executive,94,49,90,4.6,88
+E178,Tejinder Singh, Male, Operations , Operations Executive,95,50,91,4.7,89
+E179,Amandeep Kaur, Female, HR , HR Executive,96,41,82,4.1,80
+E180,Gurdial Singh, Male, Operations , Operations Supervisor,94,49,90,4.6,88
+E181,Sukhdeep Kaur, Female, HR , HR Executive,89,41,82,4.1,80
+E182,Joginder Singh, Male, Operations , Logistics Coordinator,96,49,90,4.6,88
+E183,Navkiran Kaur, Female, HR , HR Executive,88,42,83,4.2,81
+E184,Major Singh, Male, Operations , Process Analyst,90,48,88,4.5,86
+E185,Balwinder Kaur, Female, HR , HR Executive,92,50,90,4.7,88
+E186,Ajit Singh, Male, Operations , Supply Chain Executive,89,47,87,4.4,85
+E187,Kulpreet Kaur, Female, HR , HR Executive,91,49,89,4.6,87
+E188,Pritam Singh, Male, Operations , Operations Executive,84,41,82,4.2,80
+E189,Harshdeep Kaur, Female, HR , HR Executive,96,52,92,4.8,90
+E190,Bikram Singh, Male, Operations , Logistics Coordinator,96,53,93,4.9,91
+E191,Ramandeep Kaur, Female, HR , HR Executive,79,34,75,3.9,73
+E192,Gurtej Singh, Male, Operations , Process Analyst,89,46,86,4.4,84
+E193,Dilpreet Kaur, Female, HR , HR Executive,79,33,74,3.8,72
+E194,Jaswant Singh, Male, Operations , Supply Chain Executive,95,51,91,4.7,89
+E195,Simranjeet Kaur, Female, HR , HR Executive,79,34,75,3.9,73
+E196,Ranjit Singh, Male, Operations , Operations Executive,84,41,82,4.2,80
+E197,Kamalpreet Kaur, Female, HR , HR Executive,94,50,90,4.6,88
+E198,Avtar Singh, Male, Operations , Logistics Coordinator,90,48,88,4.5,86
+E199,Mandeep Kaur, Female, HR , HR Executive,82,39,80,4.1,78
+E200,Kartar Singh, Male, Operations , Process Analyst,95,51,91,4.7,89
+E201,Rajneet Kaur, Female, HR , HR Executive,90,48,88,4.5,86
+E202,Gurcharan Singh, Male, Operations , Supply Chain Executive,96,53,93,4.9,91
+E203,Navroop Kaur, Female, HR , HR Executive,91,49,89,4.6,87
+E204,Dalbir Singh, Male, Operations , Operations Executive,87,44,84,4.3,82
+E205,Jaswinder Kaur, Female, HR , HR Executive,85,42,83,4.2,81
